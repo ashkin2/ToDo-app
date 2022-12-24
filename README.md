@@ -7,7 +7,7 @@
 
 
 
-**To do this challenge, you need a good understanding of HTML, CSS and JavaScript.
+**In this challenge i have created a TODO list app with the help of HTML,CSS and Javascript.
 <br><br>
 ## The challenge
 
